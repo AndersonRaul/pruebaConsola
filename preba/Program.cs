@@ -132,6 +132,8 @@ namespace preba
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola mundo");
+
             Console.WriteLine(desencriptar("R_WZSZfd5SR_UZU`CAAH"));
             Console.ReadKey();
             return;
